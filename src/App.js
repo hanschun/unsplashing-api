@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <div className="container">
-        <h1 className="title">Unsplash API Search Demo</h1>
+        <h1 className="title">Unsplashing API Search Demo</h1>
         <PhotoSearch />
       </div>
     </div>
